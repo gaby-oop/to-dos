@@ -1,13 +1,21 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-/* 
+body{
+    background-image: url(http://3.bp.blogspot.com/-0GOp6-bHlAE/T59YiqNnIlI/AAAAAAAADuA/IAijbAhR394/s1600/color5.jpg);
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+button{
+    background-color: white;
+    float: right;
+    border: white;
+    color: lightgrey;
+}
+button:hover{
+    color: gray;
+}
 
-*/
+
+
+
+
+
